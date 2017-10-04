@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.yoshi.sharedsecrets.SharedSecretsBasicActivity">
+    <item
+        android:id="@+id/selgrouppage"
+        android:orderInCategory="1"
+        android:title="@string/selgrouppage"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/joingrouppage"
+        android:orderInCategory="2"
+        android:title="@string/joingrouppage"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/creategrouppage"
+        android:orderInCategory="3"
+        android:title="@string/creategrouppage"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/viewsecretfriends"
+        android:orderInCategory="4"
+        android:title="@string/viewsecretpage"
+        app:showAsAction="never" />
+</menu>

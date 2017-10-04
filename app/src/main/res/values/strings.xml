@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shared Secrets</string>
+    <string name="selgrouppage">Select Group</string>
+    <string name="joingrouppage">Join Group</string>
+    <string name="creategrouppage">Create Group</string>
+    <string name="viewsecretpage">View Secret Friends</string>
+    <string name="group_name">Group Name</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
